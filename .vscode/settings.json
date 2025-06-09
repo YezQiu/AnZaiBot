@@ -1,0 +1,5 @@
+{
+    "python.analysis.typeCheckingMode": "off",
+    "websearch.preferredEngine": "tavily",
+    "python.analysis.autoImportCompletions": true
+}
